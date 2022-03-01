@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "603f5c21-b88d-408c-86cf-e3e599f634a3": {
+      "ProjectGuid": "603f5c21-b88d-408c-86cf-e3e599f634a3",
+      "DisplayName": "prjOOPS",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d3e377c3-119e-43e4-a986-426becc725be": {
+      "ProjectGuid": "d3e377c3-119e-43e4-a986-426becc725be",
+      "DisplayName": "Inheritence",
+      "ColorIndex": 1
+    },
+    "3160fa19-a3cc-4e88-a627-f5805c6270e8": {
+      "ProjectGuid": "3160fa19-a3cc-4e88-a627-f5805c6270e8",
+      "DisplayName": "InheritenceConcepts",
+      "ColorIndex": 2
+    },
+    "5df6a5da-aff7-4eff-9054-616a375c3f68": {
+      "ProjectGuid": "5df6a5da-aff7-4eff-9054-616a375c3f68",
+      "DisplayName": "Exceptionhadling1",
+      "ColorIndex": 3
+    },
+    "e66bfb1b-e4a2-4af8-814b-d83ba7b88c2b": {
+      "ProjectGuid": "e66bfb1b-e4a2-4af8-814b-d83ba7b88c2b",
+      "DisplayName": "generics",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,15 @@
+D:\prjOOPS\Inheritence\obj\Debug\net6.0\Inheritence.csproj.AssemblyReference.cache
+D:\prjOOPS\Inheritence\obj\Debug\net6.0\Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+D:\prjOOPS\Inheritence\obj\Debug\net6.0\Inheritence.AssemblyInfoInputs.cache
+D:\prjOOPS\Inheritence\obj\Debug\net6.0\Inheritence.AssemblyInfo.cs
+D:\prjOOPS\Inheritence\obj\Debug\net6.0\Inheritence.csproj.CoreCompileInputs.cache
+D:\prjOOPS\Inheritence\bin\Debug\net6.0\Inheritence.exe
+D:\prjOOPS\Inheritence\bin\Debug\net6.0\Inheritence.deps.json
+D:\prjOOPS\Inheritence\bin\Debug\net6.0\Inheritence.runtimeconfig.json
+D:\prjOOPS\Inheritence\bin\Debug\net6.0\Inheritence.dll
+D:\prjOOPS\Inheritence\bin\Debug\net6.0\ref\Inheritence.dll
+D:\prjOOPS\Inheritence\bin\Debug\net6.0\Inheritence.pdb
+D:\prjOOPS\Inheritence\obj\Debug\net6.0\Inheritence.dll
+D:\prjOOPS\Inheritence\obj\Debug\net6.0\ref\Inheritence.dll
+D:\prjOOPS\Inheritence\obj\Debug\net6.0\Inheritence.pdb
+D:\prjOOPS\Inheritence\obj\Debug\net6.0\Inheritence.genruntimeconfig.cache

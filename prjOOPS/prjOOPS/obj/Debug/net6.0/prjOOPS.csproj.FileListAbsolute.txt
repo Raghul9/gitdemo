@@ -1,0 +1,15 @@
+D:\prjOOPS\prjOOPS\obj\Debug\net6.0\prjOOPS.csproj.AssemblyReference.cache
+D:\prjOOPS\prjOOPS\obj\Debug\net6.0\prjOOPS.GeneratedMSBuildEditorConfig.editorconfig
+D:\prjOOPS\prjOOPS\obj\Debug\net6.0\prjOOPS.AssemblyInfoInputs.cache
+D:\prjOOPS\prjOOPS\obj\Debug\net6.0\prjOOPS.AssemblyInfo.cs
+D:\prjOOPS\prjOOPS\obj\Debug\net6.0\prjOOPS.csproj.CoreCompileInputs.cache
+D:\prjOOPS\prjOOPS\bin\Debug\net6.0\prjOOPS.exe
+D:\prjOOPS\prjOOPS\bin\Debug\net6.0\prjOOPS.deps.json
+D:\prjOOPS\prjOOPS\bin\Debug\net6.0\prjOOPS.runtimeconfig.json
+D:\prjOOPS\prjOOPS\bin\Debug\net6.0\prjOOPS.dll
+D:\prjOOPS\prjOOPS\bin\Debug\net6.0\ref\prjOOPS.dll
+D:\prjOOPS\prjOOPS\bin\Debug\net6.0\prjOOPS.pdb
+D:\prjOOPS\prjOOPS\obj\Debug\net6.0\prjOOPS.dll
+D:\prjOOPS\prjOOPS\obj\Debug\net6.0\ref\prjOOPS.dll
+D:\prjOOPS\prjOOPS\obj\Debug\net6.0\prjOOPS.pdb
+D:\prjOOPS\prjOOPS\obj\Debug\net6.0\prjOOPS.genruntimeconfig.cache

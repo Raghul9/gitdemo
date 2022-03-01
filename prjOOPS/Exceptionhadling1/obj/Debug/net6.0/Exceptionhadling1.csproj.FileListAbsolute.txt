@@ -1,0 +1,15 @@
+D:\prjOOPS\Exceptionhadling1\bin\Debug\net6.0\Exceptionhadling1.exe
+D:\prjOOPS\Exceptionhadling1\bin\Debug\net6.0\Exceptionhadling1.deps.json
+D:\prjOOPS\Exceptionhadling1\bin\Debug\net6.0\Exceptionhadling1.runtimeconfig.json
+D:\prjOOPS\Exceptionhadling1\bin\Debug\net6.0\Exceptionhadling1.dll
+D:\prjOOPS\Exceptionhadling1\bin\Debug\net6.0\ref\Exceptionhadling1.dll
+D:\prjOOPS\Exceptionhadling1\bin\Debug\net6.0\Exceptionhadling1.pdb
+D:\prjOOPS\Exceptionhadling1\obj\Debug\net6.0\Exceptionhadling1.csproj.AssemblyReference.cache
+D:\prjOOPS\Exceptionhadling1\obj\Debug\net6.0\Exceptionhadling1.GeneratedMSBuildEditorConfig.editorconfig
+D:\prjOOPS\Exceptionhadling1\obj\Debug\net6.0\Exceptionhadling1.AssemblyInfoInputs.cache
+D:\prjOOPS\Exceptionhadling1\obj\Debug\net6.0\Exceptionhadling1.AssemblyInfo.cs
+D:\prjOOPS\Exceptionhadling1\obj\Debug\net6.0\Exceptionhadling1.csproj.CoreCompileInputs.cache
+D:\prjOOPS\Exceptionhadling1\obj\Debug\net6.0\Exceptionhadling1.dll
+D:\prjOOPS\Exceptionhadling1\obj\Debug\net6.0\ref\Exceptionhadling1.dll
+D:\prjOOPS\Exceptionhadling1\obj\Debug\net6.0\Exceptionhadling1.pdb
+D:\prjOOPS\Exceptionhadling1\obj\Debug\net6.0\Exceptionhadling1.genruntimeconfig.cache
